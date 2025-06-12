@@ -5,6 +5,7 @@ This repository accompanies the manuscript:
 **"Growth hormone receptor antagonists, GHA2 and GHA3, with dual activity against the human and mouse receptor"**
 
 It contains scripts used to extract, process, and analyze binding affinity predictions for Alphafold2-generated complexes involving human (HGHR) and mouse (MGHR) growth hormone receptors.
+Data for the complexes are avaiable upon request.
 
 ---
 
