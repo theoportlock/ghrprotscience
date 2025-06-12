@@ -24,7 +24,7 @@ The analysis pipeline performs the following steps:
 
 ```
 .
-├── commands.sh             # Main script to run the full analysis pipeline
+├── analysis.sh             # Main script to run the full analysis pipeline
 ├── code/
 │   ├── unzip_complexes.sh  # Extracts .pdb files from .zip archives
 │   ├── rename_complexes.py # Standardizes naming of complex files
@@ -40,7 +40,7 @@ The analysis pipeline performs the following steps:
 From the root directory, run:
 
 ```bash
-bash commands.sh
+bash analysis.sh
 ```
 
 Ensure the following before running:
